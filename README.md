@@ -2,7 +2,7 @@
 
 ## Overview
 
-QueryBot for Godrej is a Streamlit-based application that allows users to upload PDF, Word, or PowerPoint documents, extract text and images, summarize the text using the Cohere API, and answer questions related to the document's content. The app also includes a text-to-speech feature to convert summarized text or answers into audio.
+QueryBot for Godrej is a Streamlit-based application that allows users to upload PDF, Word, or PowerPoint documents, extract text and images, summarize the text using the Cohere API, and answer questions related to the document's content. The app also includes a text-to-speech feature to convert summarized text or answers into audio, making it accessible for a wider audience. Designed for ease of use, QueryBot helps streamline the process of extracting and understanding document information.
 
 ## Features
 
