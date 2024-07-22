@@ -246,7 +246,7 @@ def main():
     """, unsafe_allow_html=True)
 
     # st.markdown('<div class="main">', unsafe_allow_html=True)
-    st.markdown('<div style="text-align: center; font-size: 24px; font-weight: bold;">QueryBot for Godrej</div>', unsafe_allow_html=True)
+    st.markdown('<div class="title">Document Summarizer and Q&A</div>', unsafe_allow_html=True)
 
     # st.markdown("""
     #     <style>
